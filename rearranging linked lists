@@ -1,0 +1,30 @@
+Take a string of beads and reverse the beads:
+
+1) find the last bead on the string
+2) pull it off
+3) add that bead to a new string
+4) pull of the next bead
+
+
+1] 37 should be first in the order of boxes 
+2] 99 should be right next to it 
+3[ 12 shpuld be right after the 12 
+
+1} find the last box
+2] Put it at the beginning 
+3] leave the 2nd box in the middle 
+4] Put first box at the end
+
+1} get first record 
+2) get next record
+3) go back and do step 2 again (over and over) until there are no more records
+
+[Slim Shady -> Kanye West]
+[Kanye West -> Beyonce]
+[Beyonce -> Jayz]
+[Jayz -> ]
+
+
+
+
+
